@@ -1,4 +1,4 @@
-# Aula-2
+# Computação em Nuvem - Aula 2
 Aula 2 - Professora Simone
 
 Durante a execução de comandos no Cloud Shell, tentei habilitar o serviço compute.googleapis.com usando o comando:
